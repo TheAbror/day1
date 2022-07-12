@@ -1,6 +1,24 @@
 # kilo1
 
-A new Flutter project.
+This is 30 day flutter challenge
+I will be using Kilo Loco tutorials
+
+Day1 
+
+Random restaurant chooser app
+
+here we use 
+
+void random(){
+final random = random();
+final index = random.nextInt(restaurants.length)
+
+setstate(){
+currentIndex = index;
+}
+
+}
+
 
 ## Getting Started
 
