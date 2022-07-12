@@ -3,9 +3,9 @@
 This is 30 day flutter challenge
 I will be using Kilo Loco tutorials
 
-Day1 
+## Day1 
 
-Random restaurant chooser app
+## Random restaurant chooser app
 
 here we use 
 
